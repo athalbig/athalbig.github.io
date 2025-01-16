@@ -6,10 +6,10 @@ I am Web Developer and Designer with a passion for building and working with mot
 
 ## Current Projects
 
- * Hello World: Java console application
+ * [Hello World: Java console application](https://github.com/ddc-java-20/hello-world-athalbig)
       
  * Hello World: Android app
 
 ## Links
 
-*[LinkedIn](https://www.linkedin.com/in/aaronhalbig/)
+* [LinkedIn](https://www.linkedin.com/in/aaronhalbig/)
