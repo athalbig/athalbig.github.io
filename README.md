@@ -11,3 +11,5 @@ I am Web Developer and Designer with a passion for building and working with mot
  * Hello World: Android app
 
 ## Links
+
+*[LinkedIn](https://www.linkedin.com/in/aaronhalbig/)
